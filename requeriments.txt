@@ -1,0 +1,5 @@
+flask
+scapy
+python-nmap
+geoip2
+mac-vendor-lookup
